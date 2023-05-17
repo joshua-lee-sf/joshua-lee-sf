@@ -60,8 +60,12 @@ class Human
 ```
 <details>
 <summary> 🤖 Github Stats</summary>
-
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshua-lee-sf)
+<a href="https://github-readme-stats.vercel.app/api?username=joshua-lee-sf">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=joshua-lee-sf" />
+</a>
+<a href="https://github.com/joshua-lee-sf/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshua-lee-sf&layout=compact" />
+</a>
 </details>
 </details>
 
