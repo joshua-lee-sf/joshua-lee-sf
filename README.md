@@ -1,3 +1,58 @@
-### Hi There! 👋
+```ruby
+puts "Hello World!"
 
-My name is Josh and I'm a software engineer from San Francisco, CA. I'm 
+class Human
+    attr_reader: :first_name, :last_name, :age, :hobbies
+
+    def initialization(first_name, last_name)
+        @first_name = "Joshua"
+        @last_name = "Lee"
+        @age = 28
+        @hobbies = [
+            "traveling",
+            "watching anime/reading manga",
+            "gaming(primarily FPS like Apex Legends)",
+            "concerts and festivals (i've seen over 100 artists)",
+            "collecting sneakers"
+        ]
+    end
+
+    def location
+        location = "San Francisco, CA born and raised"
+    end
+
+    def former_career_trajectory
+        education = {
+            "San Francisco State University" : "Consumer and Family Studies"
+            }
+        work = { 
+            "Sunset Neighborhood Beacon Center" : "Program Coordinator" 
+            }
+    end
+
+    def languages_learned_at_app_academy
+        language_array = [
+            "Ruby", 
+            "Ruby On Rails", 
+            "JavaScript", 
+            "React", 
+            "HTML", 
+            "CSS/SCSS",
+            "SQL/PostgreSQL", 
+            "MongooseDB",
+            "Express"
+            "Node.js",
+            "AWS"
+        ]
+    end
+
+    def contact_me
+        conact_info = {
+            email: "joshua.lee0195@gmail.com",
+            linked_in: "https://www.linkedin.com/in/joshua-lee-sf/"
+        }
+    end
+```
+
+
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshua-lee-sf)
