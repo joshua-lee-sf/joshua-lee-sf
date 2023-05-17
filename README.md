@@ -44,7 +44,7 @@ class Human
             "HTML", 
             "CSS/SCSS",
             "SQL/PostgreSQL", 
-            "MongooseDB",
+            "MongoDB",
             "Express",
             "Node.js",
             "AWS"
