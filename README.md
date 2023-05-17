@@ -1,7 +1,7 @@
 ```ruby
 puts "Hello World!"
 
-class Human
+class Human 
     attr_reader: :first_name, :last_name, :age, :hobbies
 
     def initialization(first_name, last_name)
@@ -9,11 +9,12 @@ class Human
         @last_name = "Lee"
         @age = 28
         @hobbies = [
-            "traveling",
-            "watching anime/reading manga",
-            "gaming(primarily FPS like Apex Legends)",
+            "collecting sneakers",
             "concerts and festivals (i've seen over 100 artists)",
-            "collecting sneakers"
+            "gaming(primarily FPS like Apex Legends)",
+            "learning",
+            "traveling",
+            "watching anime/reading manga"
         ]
     end
 
@@ -31,7 +32,7 @@ class Human
     end
 
     def languages_learned_at_app_academy
-        language_array = [
+        language_arr = [
             "Ruby", 
             "Ruby On Rails", 
             "JavaScript", 
@@ -40,7 +41,7 @@ class Human
             "CSS/SCSS",
             "SQL/PostgreSQL", 
             "MongooseDB",
-            "Express"
+            "Express",
             "Node.js",
             "AWS"
         ]
@@ -54,5 +55,9 @@ class Human
     end
 ```
 
+<details>
+<summary> 🤖 Github Stats</summary>
 
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshua-lee-sf)
+</details>
+
