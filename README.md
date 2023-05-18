@@ -11,7 +11,6 @@ class Human
     def initialization(first_name, last_name)
         @first_name = "Joshua"
         @last_name = "Lee"
-        @age = 28
         @hobbies = [
             "collecting sneakers",
             "concerts and festivals (i've seen over 100 artists)",
