@@ -1,6 +1,21 @@
+<img src="https://wallpaperforu.com/wp-content/uploads/2021/03/Wallpaper-Lofi-Anime-Original-Bed-Chair-Computer-Night-Ro43-scaled.jpg" height=250px width=100% align="center"/>
 
+<br>
+
+<div align="center">
+    <h1>Hello fellow nerds, I'm Josh! 🥷</h1>
+</div>
+
+
+Welcome to my GitHub profile! I'm a passionate software developer with expertise in Ruby on Rails, JavaScript, React, Node, MongoDB, PostgreSQL, Express, AWS, Third Party API fetches, JBuilder, and Redux. I enjoy tackling complex challenges and crafting efficient solutions. Through my repositories, you'll find a collection of my projects, where I strive to demonstrate clean code, best practices, and a dedication to delivering high-quality software. Feel free to explore, collaborate, and let's create something remarkable together!
+
+<br>
+<img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"/>
+<br>
+
+<div>
 <details>
-<summary> 🖱️ Click me please 🥺</summary>
+<summary> 🖱️ Click me for more info! 🥺</summary>
 
 ```ruby
 puts "Hello World!"
@@ -25,9 +40,10 @@ class Human
         location = "San Francisco, CA born and raised"
     end
 
-    def former_career_trajectory
-        education = {
-            "San Francisco State University" : "Consumer and Family Studies"
+    def education
+        educations = {
+            "App Academy" : "16 Week Full Stack BootCamp"
+            "San Francisco State University" : "Consumer and Family Studies",
             }
         work = { 
             "Sunset Neighborhood Beacon Center" : "Program Coordinator" 
@@ -67,7 +83,4 @@ class Human
 </a>
 </details>
 </details>
-
-
-
-
+</div>
