@@ -84,3 +84,5 @@ class Human
 </details>
 </details>
 </div>
+
+Checkout my projects below! 👇
